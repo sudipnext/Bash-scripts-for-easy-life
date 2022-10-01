@@ -1,0 +1,1 @@
+cat *.txt >> new.txt
