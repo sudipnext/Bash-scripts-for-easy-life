@@ -7,5 +7,5 @@ kernel=$(uname -s)
 if [[ $kernel == "Darwin" ]]; then
   osascript -e "display notification \"${body:?}\" with title \"${header:?}\""
 else
-  notify-send -u critical -t 0 -a pomo "${header:?}" "${body:?}"
+  notify-send -t 0 "${header:?}" "${body:?}"
 fi
