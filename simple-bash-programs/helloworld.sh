@@ -2,4 +2,4 @@
   
 # This is the basic bash script  
   
-echo " Hello World! 
+echo Hello World! 
