@@ -8,7 +8,7 @@ echo "Are $string_a and $string_b strings equal?"
 echo $?
 
 num_a=100
-num_b=100
+num_b=105
 
 echo "Is $num_a equal to $num_b ?" 
 [ $num_a -eq $num_b ]
