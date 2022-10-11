@@ -1,4 +1,4 @@
 #!/bin/bash  
   
-value=`cat read_file.txt`  
+value=`cat sample.txt`  
 echo "$value"

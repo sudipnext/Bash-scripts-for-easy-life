@@ -11,3 +11,26 @@ You can include any Bash scripts that can help anyone. This repository is intend
 
 
 [P.S Don't Forgot to Star if you Liked it or You are helped Somehow. It motivates us to run such Opensource Projects.]
+
+## APPLICATIONS
+Simple-bash-programs
+| FILE                                                      | USAGE           | Code |
+| --------------------------------------------------------- | --------------- | ---- |
+| [helloworld.sh](/simple-bash-programs/helloworld.sh)      | Hello World     |      |
+| [addTwoNumbers.sh](simple-bash-programs/addTwoNumbers.sh) | Add Two Numbers |      |
+
+Files-Folder
+| FILE                                                             | UASGE                      | Code |
+| ---------------------------------------------------------------- | -------------------------- | ---- |
+| [counting-files.sh](/Files-Folder-Programms/counting-files.sh)   | Count Files in a Directory |      |
+| [date-rename-jpg.sh](/Files-Folder-Programms/date-rename-jpg.sh) | Rename Files With Date     |      |
+| [findFile.sh](Files-Folder-Programms/findFile.sh)                |                            |      |
+| [ReadFile.sh](Files-Folder-Programms/ReadFile.sh)                |                            |      |
+
+Text-Utility
+| FILE                                                                    | USAGE                                        | Code |
+| ----------------------------------------------------------------------- | -------------------------------------------- | ---- |
+| [count-lines.sh](Text-Utility/count-lines.sh)                           | Count Lines in File                          |      |
+| [letter-frequency-in-file.sh](Text-Utility/letter-frequency-in-file.sh) | Count The Frequency of Every Letters in File |      |
+| [textReplacement.sh](Text-Utility/textReplacement.sh)                   | Replace Texts in Files                       |      |
+| [word-search.sh](Text-Utility/word-search.sh)                           | Search for Word in Files                     |      |
